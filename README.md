@@ -1,3 +1,8 @@
+<img width="1845" height="1003" alt="image" src="https://github.com/user-attachments/assets/25331b84-2ace-4dfc-bf34-9e4a052b6b4f" />
+<img width="1817" height="972" alt="image" src="https://github.com/user-attachments/assets/c43166b7-74a6-4574-b637-fce40eedbee4" />
+
+
+
 ## About
 A modern landing page inspired by MENDO's creative book showcase, featuring a clean layout and bold typography.
 
